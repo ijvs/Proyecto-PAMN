@@ -1,0 +1,6 @@
+Infija
+((3-4)+2)^2
+Prefija
+^ + - 3 4 2 2 
+Postfija
+3 4 - 2 + ^2
